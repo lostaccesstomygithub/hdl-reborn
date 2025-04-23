@@ -1,2 +1,3 @@
-# hdl-reborn
-A version of my old hanime.tv downloader, but better.
+# Usage
+`python main.py <link> <resolution>`
+360p up to 720p, no plans to add account support.
